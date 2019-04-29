@@ -1,4 +1,4 @@
-## Sample WebbGL example
+## Sample WebGL example
 
 - import OBJ model
 - create lights
