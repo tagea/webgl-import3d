@@ -1,5 +1,5 @@
 ## Sample WebbGL example
 
-- import OBJ object
+- import OBJ model
 - create lights
 - move view by click and drag
