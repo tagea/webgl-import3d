@@ -4,4 +4,4 @@
 - create lights
 - move view by click and drag
 
- [Веб версия](https://tagea.github.io/webgl-import3d/).
+ [Web](https://tagea.github.io/webgl-import3d/).
