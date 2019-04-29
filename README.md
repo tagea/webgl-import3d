@@ -3,3 +3,5 @@
 - import OBJ model
 - create lights
 - move view by click and drag
+
+ [Веб версия](https://tagea.github.io/webgl-import3d/).
